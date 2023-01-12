@@ -10,5 +10,3 @@ Youtube: https://www.youtube.com/channel/UCOH9PD458mhL06K_yu-OAkw
 Вы НЕ имеете права декомпилировать и изменять приложение. 
 Вы НЕ имеете права копировать, распространять и монитизировать ПО,
 потому что оно бесплатно и общедоступно!
-
-[image](https://user-images.githubusercontent.com/95537683/212160565-53959d17-ebd7-496f-bf03-5ccaeb7b5b61.png)
