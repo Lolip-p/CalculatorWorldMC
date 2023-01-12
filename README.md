@@ -5,8 +5,6 @@
 
 Youtube: https://www.youtube.com/channel/UCOH9PD458mhL06K_yu-OAkw
 
-GitHub: https://github.com/Lolip-p
-
 Вы имеете право использовать Программное обеспечение в пунктах назначения
  
 Вы НЕ уполномочены декомпилировать и альтернативно использовать приложение.
